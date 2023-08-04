@@ -1,0 +1,22 @@
+.card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.bookCard{
+    padding: 20px;
+    background-color: #a891b7;
+    border-radius: 10%;
+}
+.bookCardButton{
+    padding: 5px 20px;
+    background-color: burlywood;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.bookCard h3{
+    margin-bottom: 10px;
+}
+.bookCard p{
+    margin-bottom: 5px;
+}
